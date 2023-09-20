@@ -1,0 +1,48 @@
+[{
+    "id": 1,
+    "column":"Name"
+},
+{
+    "id": 2,
+    "column":"Added From"
+},
+{
+    "id": 3,
+    "column":"Tags"
+},
+{
+    "id": 4,
+    "column":"Internal ID"
+},
+{
+    "id": 5,
+    "column":"Client ID"
+},
+{
+    "id": 6,
+    "column":"Phone"
+},
+{
+    "id": 7,
+    "column":"Client Portal"
+},
+{
+    "id": 8,
+    "column":"Assignee"
+},
+{
+    "id": 9,
+    "column":"Followers"
+},
+{
+    "id": 10,
+    "column":"Status"
+},
+{
+    "id": 11,
+    "column":"Applications"
+},
+{
+    "id": 12,
+    "column":"Last Updated"
+}]
